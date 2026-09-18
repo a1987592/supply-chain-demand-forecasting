@@ -17,7 +17,7 @@ Sample-Superstore（2014–2017 订单明细），按周聚合销售额作为需
 - 安全库存 SS = Z·σ·√L，再订货点 ROP，经济订货批量 EOQ
 
 ## 结果
-- 最优模型：Holt-Winters，测试集 MAPE = X.X%
+- 最优模型：Holt-Winters，测试集 MAPE = 50.48%
 - 输出子品类级安全库存 / ROP / EOQ 参数表
 
 ## 运行
